@@ -1,0 +1,105 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "enriched",
+  "authors": {
+    "Boyla Mainsah": {},
+    "Chance Fleeting": {
+      "orcid": "0000-0002-6271-4952",
+      "affiliations": [
+        {
+          "name": "Duke University"
+        }
+      ]
+    },
+    "Thomas Balmat": {},
+    "Eric Sellers": {},
+    "Leslie Collins": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.13026/0byy-ry86",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000336",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000336",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "IsReferencedBy"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "IsReferencedBy"
+    }
+  ],
+  "title": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study R)",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "2.1 GB (481 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "BigP3BCI Study R is a P300-based brain-computer interface dataset comprising EEG recordings from 20 healthy subjects performing a 9x8 multi-face character grid speller task across two sessions. This derivative dataset is part of the larger BigP3BCI collection, the largest public P300 BCI dataset with ~267 subjects across 20 studies. The data were acquired at 256 Hz using 32-channel EEG with a g.USBamp amplifier and are organized in BIDS format with HED event annotations for machine learning applications.",
+  "methods_description": "EEG data were acquired at 256 Hz sampling rate using 32 channels with standard 10-20 montage on a g.USBamp (g.tec) amplifier with 60 Hz line frequency. Subjects performed a P300 speller task using a 9x8 multi-face paradigm with visual stimulus presentation. Each subject completed 2 sessions with target and non-target event classifications. Data were processed using MOABB (Mother of All BCI Benchmarks) version 1.5.0 and organized according to BIDS and HED 8.4.0 standards.",
+  "keywords": [
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "Visual Perception",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D014796"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D001931"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "speller paradigm"
+    },
+    {
+      "term": "machine learning"
+    },
+    {
+      "term": "BIDS"
+    },
+    {
+      "term": "HED"
+    }
+  ],
+  "source_hash": "c7b55615130b13329c010417f04728bfb4c95b40243758b7968b6d124b15b1af"
+}
