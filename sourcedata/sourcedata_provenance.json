@@ -1,0 +1,2415 @@
+{
+ "dataset": "nm000336",
+ "moabb_class": "Mainsah2025_R",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.Mainsah2025_R.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-Mainsah2025-data/bigP3BCI-data/StudyR",
+ "license": "CC-BY-4.0",
+ "doi": "10.13026/0byy-ry86",
+ "naming": "upstream_filenames_restored",
+ "n_files": 480,
+ "total_bytes": 4958676288,
+ "files": [
+  {
+   "file": "R_01/SE001/Test/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "db54828a5a7e33490ede6d86afb92635d5ef4b322190c5618d3a6956a08eeb21"
+  },
+  {
+   "file": "R_01/SE001/Test/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "4cc2b69128dd5d4d3d91fa32f5781cf09305661dbf83c36c26ad9eece143c9d0"
+  },
+  {
+   "file": "R_01/SE001/Test/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "53ab7c8a0fe405ba87a4d0ed7f768c5d40f3efbd34de7275e440c3038d1f887f"
+  },
+  {
+   "file": "R_01/SE001/Test/EinsteinLarge/R_01_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "1c647095540c65deb4b088369964fc3fd3511a1fcd8e7385baf7db7548ac460b"
+  },
+  {
+   "file": "R_01/SE001/Test/EinsteinLarge/R_01_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "eb73eae9b5e89ad5bbc03559d9956cb6a2195b94ac1f69e2e6d6de82720a4e89"
+  },
+  {
+   "file": "R_01/SE001/Test/EinsteinLarge/R_01_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "aa22d9bdfe1f36ae364f93589e7104b881f5d682a26d8c431f57bfac1c892205"
+  },
+  {
+   "file": "R_01/SE001/Train/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "ca4c1aeb43892e615a2f91364ddf99fae9434e7aff3189e62838645f5836139c"
+  },
+  {
+   "file": "R_01/SE001/Train/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "b1b9bd9e64043a858e9bead53b80600b31bd89c98d036ea734e89a0fa5f9985c"
+  },
+  {
+   "file": "R_01/SE001/Train/CrystalizeLarge/R_01_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "35d3e8150223e7734ae2b01e5d0fb84a1e38893bd7e65af5c388d12a6ff5dbcc"
+  },
+  {
+   "file": "R_01/SE001/Train/EinsteinLarge/R_01_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a016128231c6e6ad1465621843697ad77853116131ad606193398f0e067644b5"
+  },
+  {
+   "file": "R_01/SE001/Train/EinsteinLarge/R_01_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "ce8861f97b9fa11d5e4a6e9fc6b9b08806db41fbbef42bd55341f80b4f67bbbd"
+  },
+  {
+   "file": "R_01/SE001/Train/EinsteinLarge/R_01_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3233dc0be81270458502f16ede50cf43ea291c86aa2e02e7d14e91efb37a2d69"
+  },
+  {
+   "file": "R_01/SE002/Test/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "e259287655a8d30a08a8a0c38f1e0b843ce61f7673219fdae2b6ea0ef91e7846"
+  },
+  {
+   "file": "R_01/SE002/Test/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "f55a65d804f5c5993a503e14b255b52150431087d00c179e8ae3e4e3d68afb57"
+  },
+  {
+   "file": "R_01/SE002/Test/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "b07b795b0bd22bce41c866b8f341ed40612d9967f4203080c473257a23a60661"
+  },
+  {
+   "file": "R_01/SE002/Test/EinsteinSmall/R_01_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "089cd4172492e0f54715e646cf1938d255eb62a052dd6a9ce459b5951ef2e4ba"
+  },
+  {
+   "file": "R_01/SE002/Test/EinsteinSmall/R_01_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "6afe96ee5f5dc08fb305526ee7d3d7308ec5b0952d3b2e74ee657c9911c1dc20"
+  },
+  {
+   "file": "R_01/SE002/Test/EinsteinSmall/R_01_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "0978487379615f0f9cc9924baf8c17581facce9051245c7fd9cca033c22650e3"
+  },
+  {
+   "file": "R_01/SE002/Train/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "47e3e0efb459cc82fe2170b3573a714b2b8aa26f37122a1d8f12f34ab079b7c2"
+  },
+  {
+   "file": "R_01/SE002/Train/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "3e024b46ab47358ea409233339ed0f214289b67b13fdedcd1ed1b37ba2c81b04"
+  },
+  {
+   "file": "R_01/SE002/Train/CrystalizeSmall/R_01_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3c2119bc30f1fe410961020dc753cefdf0786bbf92f0e9e905c3aca0bbb1019a"
+  },
+  {
+   "file": "R_01/SE002/Train/EinsteinSmall/R_01_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "4da771718260ad323a6ffe14a7b2d3cbe5c081dcf3c83ccdbf3e9ef9d46e8fa5"
+  },
+  {
+   "file": "R_01/SE002/Train/EinsteinSmall/R_01_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f41c693a450d8194b6d44267fd448cb1a84791d267796c6dcf8b531e1d6102a7"
+  },
+  {
+   "file": "R_01/SE002/Train/EinsteinSmall/R_01_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3eb46c43b80586e99a027581498ab183f5df8ff89dc8798ab54f998f7a7055c6"
+  },
+  {
+   "file": "R_02/SE001/Test/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 5051190,
+   "sha256": "54137a4868e3ea19476371e6ee77b42223c8a96ae65171daa1f3bd38baccb832"
+  },
+  {
+   "file": "R_02/SE001/Test/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 5051190,
+   "sha256": "d32b8aa4873b140a56c6b7e47d0dd2de4cc0cbfa77dc74b02cdc34942e5bcc14"
+  },
+  {
+   "file": "R_02/SE001/Test/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 5051190,
+   "sha256": "f7b4824488075230e063c9b6f26c9eb87dfd1d635bfe4331029062be0c992583"
+  },
+  {
+   "file": "R_02/SE001/Test/EinsteinSmall/R_02_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "a02f7c3fbdd73e6699c135a1f25bf981a915fec00af4d593992d1d46bfba1e8d"
+  },
+  {
+   "file": "R_02/SE001/Test/EinsteinSmall/R_02_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "10025bca383d602bb721f0f0975e98be5efcddb90155da0258b66d26175581ab"
+  },
+  {
+   "file": "R_02/SE001/Test/EinsteinSmall/R_02_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "c14f86563cfe643f3facae5dad606d2a67c7be9e6da8d31334d68bbce91b0834"
+  },
+  {
+   "file": "R_02/SE001/Train/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "cc8969e81bf974a4adcc396af4cd7a74c0f5b2745dc4b202625cf03d297a5488"
+  },
+  {
+   "file": "R_02/SE001/Train/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f9f3ce9cfb2e9c8ca44a66b0eab24be484d9642f35d67325ca8e86d6849efd1b"
+  },
+  {
+   "file": "R_02/SE001/Train/CrystalizeLarge/R_02_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "4c823b610f2c7c2257fbaac2614df0247b119d9538acfe51240abf2fb2dfbf53"
+  },
+  {
+   "file": "R_02/SE001/Train/EinsteinSmall/R_02_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "0e785eec5cfc046c3259757499db39348543af8a3bc4525d96fffbf43731921a"
+  },
+  {
+   "file": "R_02/SE001/Train/EinsteinSmall/R_02_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "436ee852dbb653fbed5e63ab231addc65b44683dda8b624f99a5b036754d36cc"
+  },
+  {
+   "file": "R_02/SE001/Train/EinsteinSmall/R_02_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "fa05592b47fef3270504ab1207e81f524d7722cb48ac40f4e0084216a61495c2"
+  },
+  {
+   "file": "R_02/SE002/Test/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "de15b584fbd1020fe368797e39b72c88ba53ddfc902ffddc7340d5aaebdc6ec6"
+  },
+  {
+   "file": "R_02/SE002/Test/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "f29bc8dc23c4286c1c466aaf4c01e385b10ff4b778e9ec528f49bf27b18e3585"
+  },
+  {
+   "file": "R_02/SE002/Test/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "64727495ece70ce3148c66cffe5719a0c846ca9b7fa4b1074176f610e57f61fe"
+  },
+  {
+   "file": "R_02/SE002/Test/EinsteinLarge/R_02_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "df4b935138d9a496abff570c37da8d38fd9d3503296889900ae1f7932f78b825"
+  },
+  {
+   "file": "R_02/SE002/Test/EinsteinLarge/R_02_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "318cdf2d190ca12e46d36fe7eedbbed8b756624e3a5828a510673d5d04135268"
+  },
+  {
+   "file": "R_02/SE002/Test/EinsteinLarge/R_02_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "b20648a070dd7b875e7070d7e4c2f5d11118931f931d0293b5f16e317a73441b"
+  },
+  {
+   "file": "R_02/SE002/Train/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "6efe18f6dbddf5c145812080ce57b4020cb239ac8fe9296aa7df528fd35ea2f7"
+  },
+  {
+   "file": "R_02/SE002/Train/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "bfedc3fff7725ddf60de1f1505bc166dedcb0d9f385921660162c91d307aeea1"
+  },
+  {
+   "file": "R_02/SE002/Train/CrystalizeSmall/R_02_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "29b3dcf7770de5498844b5862db2066cd13c7f9f56c182c893da6fb6a50f275e"
+  },
+  {
+   "file": "R_02/SE002/Train/EinsteinLarge/R_02_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "9dfe2591425f485de9ac89d647bad13d40424a5d5f1fb340aa3edf81368774e1"
+  },
+  {
+   "file": "R_02/SE002/Train/EinsteinLarge/R_02_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "808b83eaf8a78d132a70bc5779b37711cd2d03d9768730ed8e8c761cc6ff9fae"
+  },
+  {
+   "file": "R_02/SE002/Train/EinsteinLarge/R_02_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "508885565d100c21c021713865c460e191aa5fb6137de6f1a16ee29614740c49"
+  },
+  {
+   "file": "R_03/SE001/Test/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "c3b68a8a3189bde72577e41eca98d0c7eca93c8ee67ea586857b58dfa348c0e5"
+  },
+  {
+   "file": "R_03/SE001/Test/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "81a265dc2884031df8a351866b1c8557e1e430e71e381c71ba1114574318b628"
+  },
+  {
+   "file": "R_03/SE001/Test/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "283dd76bfb8a0f6783404447197bbe706e9ad77ade84dd4472d96dd63d144bcd"
+  },
+  {
+   "file": "R_03/SE001/Test/EinsteinSmall/R_03_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "991e4b2219b341d6cc93856d1aebe33d3838a1fc5fdbd543e06931550243dd00"
+  },
+  {
+   "file": "R_03/SE001/Test/EinsteinSmall/R_03_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "8ceadf75c3597b0bfb849cafec37d942f4d18cfa047a973c04d1847a3b5225b1"
+  },
+  {
+   "file": "R_03/SE001/Test/EinsteinSmall/R_03_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "4f463d803560ea1b703c6984ee9686ee2ea96dea351c026a20c3ddb510fe0895"
+  },
+  {
+   "file": "R_03/SE001/Train/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "2cc2c5a913ad018d2182cc68b480b3e00310acf68bed679628fc944ec6f82f02"
+  },
+  {
+   "file": "R_03/SE001/Train/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "5b39e32ccadd3af699e2496a8179f1d32d50e6ef7398c8142ff17a1f59b21acf"
+  },
+  {
+   "file": "R_03/SE001/Train/CrystalizeLarge/R_03_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "cf5c9887cd539f075a36bb87dda973ea27dc67e84a272954e7d4b3c027b940e2"
+  },
+  {
+   "file": "R_03/SE001/Train/EinsteinSmall/R_03_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "7dd230256b387e7a7ecf898dd798302be9392aa7385da9401387009caa214cb3"
+  },
+  {
+   "file": "R_03/SE001/Train/EinsteinSmall/R_03_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "b7896fb57020a1f97307ca5e863c772912e8e81657c85391a1f5e0f76a8736f0"
+  },
+  {
+   "file": "R_03/SE001/Train/EinsteinSmall/R_03_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "5b8b72abe87dc9d305c748df55bcad9e735e25b2cd511723cf98d81fd72ad532"
+  },
+  {
+   "file": "R_03/SE002/Test/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "153ad35cf23dff20bbf6f760c856ccac9c9303f49b41d77d990fdd9351c0cc74"
+  },
+  {
+   "file": "R_03/SE002/Test/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "1b388bd7a3f6b376f47d16d4fe475abb574c654351dd99fbc66a7a9adec2e2fa"
+  },
+  {
+   "file": "R_03/SE002/Test/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "471268a90868614f4fee87abd300317da59a03d031b7d1808c0407bac5ccb3bb"
+  },
+  {
+   "file": "R_03/SE002/Test/EinsteinLarge/R_03_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "d8e2898ddd3df71fb2ae16d88661b44f3ac1072031282d72853d05fda71d0eb3"
+  },
+  {
+   "file": "R_03/SE002/Test/EinsteinLarge/R_03_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "87ac677ada359f218330cdd5adc22e6a30c405c50fc6b9b4765c52b2d502b8ac"
+  },
+  {
+   "file": "R_03/SE002/Test/EinsteinLarge/R_03_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "f8784bdd4a05bcb1bc47af460f6e9dcec25e01f435face16e0c1015b1d710269"
+  },
+  {
+   "file": "R_03/SE002/Train/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "466f3e3210d0869d3105c9470d8b6a97075c8c92b498e91483a7c48dc262e50e"
+  },
+  {
+   "file": "R_03/SE002/Train/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f0496937c1016d712a8624c18d1877d1f65d9b85b2add2f6642f930bfc670c87"
+  },
+  {
+   "file": "R_03/SE002/Train/CrystalizeSmall/R_03_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "7f4bdf05994226b10f12a5bb651ffec061291099b2b35ee017b27b9e690f1a57"
+  },
+  {
+   "file": "R_03/SE002/Train/EinsteinLarge/R_03_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a2909b0e9ae514a698f413f3daca65fbf6554c197ad3594962ef2135ba5fd277"
+  },
+  {
+   "file": "R_03/SE002/Train/EinsteinLarge/R_03_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "96c25b1758ce01f08eda2625744e13936010390730d92b284e57d6b8d54558c1"
+  },
+  {
+   "file": "R_03/SE002/Train/EinsteinLarge/R_03_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "1fc9fc9ab366b9df0ea061ceaa5c02b0055488c55b45c8b82ea6b0479b257b81"
+  },
+  {
+   "file": "R_04/SE001/Test/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "935a183f56ece0cb20ff270614bcb293a504ec9224c1bc6c5fe99849d577ac33"
+  },
+  {
+   "file": "R_04/SE001/Test/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "4bbcf9ff22381e3a4df261b6572529027141ba68a5268be62f1361b1fbbef593"
+  },
+  {
+   "file": "R_04/SE001/Test/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "685e601c9de4f0cb946e9c9db3c12b6eb27eb9f2ab03000ac1d685400fbd2b67"
+  },
+  {
+   "file": "R_04/SE001/Test/EinsteinSmall/R_04_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "febffaee0707d44dc495e77ebf423c8e45d1dae1cd9f1227251e60c5db27efb4"
+  },
+  {
+   "file": "R_04/SE001/Test/EinsteinSmall/R_04_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "4bd55bfa1f73685a18a783d27ea2ef67fc5713deeccd867969371838d9d6611a"
+  },
+  {
+   "file": "R_04/SE001/Test/EinsteinSmall/R_04_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "8dff84b2214244682262c45a2d58052d4028b28488db2b3567e473026c3f4097"
+  },
+  {
+   "file": "R_04/SE001/Train/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a525c574f3814d4875c89de2e30839255b408bea08243ced1b3d16f56b5b267a"
+  },
+  {
+   "file": "R_04/SE001/Train/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "ca33aa53662ddaf2de28547e81e8f97a4ea082d3c59c5bf088eb4efcb44777da"
+  },
+  {
+   "file": "R_04/SE001/Train/CrystalizeSmall/R_04_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "1e9ee5f01026fe1790fbc11e090e3cad11fa99ec99c5f8ac2df4a51615fe5e99"
+  },
+  {
+   "file": "R_04/SE001/Train/EinsteinSmall/R_04_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "6c5065f67bb71582f28c233abc72db9f939eebe91ad48f627d6fa76a41a39e9f"
+  },
+  {
+   "file": "R_04/SE001/Train/EinsteinSmall/R_04_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "29158293b9d1845a7cb4b31f7baa89b631598de6fcc38520e22ec07558c04a34"
+  },
+  {
+   "file": "R_04/SE001/Train/EinsteinSmall/R_04_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "4be5c302c72045353ba30b2560e2a1f95d932f44c2f74f1926fa11ba83adb4b3"
+  },
+  {
+   "file": "R_04/SE002/Test/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "63631ab3b03c390dbd869a3dade6bf5a7f54c02e8946543672b8bcfe01735043"
+  },
+  {
+   "file": "R_04/SE002/Test/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "5cdbe3717c8ae457477662009f8963ed21c026098f57ec3befa2813a0e37b27d"
+  },
+  {
+   "file": "R_04/SE002/Test/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "a724222a71fabbfb438503b58d19d8a0d83a37f878cb63f552e1ce7cb29827a4"
+  },
+  {
+   "file": "R_04/SE002/Test/EinsteinLarge/R_04_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "bf34def2a2cfa8f7a5a7210e34537b776ba8c623c12c140599c571d68d5846ac"
+  },
+  {
+   "file": "R_04/SE002/Test/EinsteinLarge/R_04_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "e3cb5999bd2cac742b03ca2bd9a16852e05460d849f8a3a21a15d8f1d7da8a39"
+  },
+  {
+   "file": "R_04/SE002/Test/EinsteinLarge/R_04_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "80793f622398eb8a846bc89ae37a4328fe997181f5ae8eda49da3c214d5a9c8f"
+  },
+  {
+   "file": "R_04/SE002/Train/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "2c9a43674fdefe5bf5038a5eb1e9623ced643da946b4ae21d53be5fb54e97c2d"
+  },
+  {
+   "file": "R_04/SE002/Train/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "762efc1e1ee22ce526fe121d7afc1758b99720037e73015f3b2a4be23dda96e5"
+  },
+  {
+   "file": "R_04/SE002/Train/CrystalizeLarge/R_04_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "eda2986fdcbb860c0f77ee7e91eb416563a5b66a249081368bab826f4b465c24"
+  },
+  {
+   "file": "R_04/SE002/Train/EinsteinLarge/R_04_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "8a0eaaac4b72b5306fb00a87e5f192a0b2ac72a4ef068a626ac5dfed05a8388a"
+  },
+  {
+   "file": "R_04/SE002/Train/EinsteinLarge/R_04_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7c5100364d465386e157502051b22135eecd48e04597012bd89331c6067ccf06"
+  },
+  {
+   "file": "R_04/SE002/Train/EinsteinLarge/R_04_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "ddb83c19be93dd67dd25dcbbbae706a9201aa58df6b6552e6d05235d664501b5"
+  },
+  {
+   "file": "R_05/SE001/Test/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "8294a2972384a42c9d8a1847c8ac7ce3acae594bbbec3e51dcbc6223d974172f"
+  },
+  {
+   "file": "R_05/SE001/Test/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "b0765dbcfa2e8b585e0f2d09e2412a4c56149e238547c59c86e5dd142f806c62"
+  },
+  {
+   "file": "R_05/SE001/Test/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "b9e719836149735a058a467e157bdb2b029e3e40272cd7af063870a58d694ee6"
+  },
+  {
+   "file": "R_05/SE001/Test/EinsteinLarge/R_05_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 12930870,
+   "sha256": "8fdc8f797946010d05ba4cbf4ba42330ac5b5fba53aedb480ace2843000d593c"
+  },
+  {
+   "file": "R_05/SE001/Test/EinsteinLarge/R_05_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 12930870,
+   "sha256": "7f77ede7439cceaec8d3ea1b9b8a970ff967739b3f2dac695a285d722fc9cf1d"
+  },
+  {
+   "file": "R_05/SE001/Test/EinsteinLarge/R_05_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 12930870,
+   "sha256": "87c6e79c55e5ce6238b41b26939fa825ff0b7ee9e2f29cddc334a9129735ec70"
+  },
+  {
+   "file": "R_05/SE001/Train/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "2549082219c619a048e45b70f324295dd446b6839f061656dba2bc5f5b0c9b4a"
+  },
+  {
+   "file": "R_05/SE001/Train/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7340a6fd8d2cca2802eca644468ae543d281fb5a359561f1f9a358833fe163fe"
+  },
+  {
+   "file": "R_05/SE001/Train/CrystalizeLarge/R_05_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "90661d54c37e0833c186e91955885381c08e65b9a1913e6c49bc30a0810e7308"
+  },
+  {
+   "file": "R_05/SE001/Train/EinsteinLarge/R_05_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "7e08a83806119f40297c50150057efba2051ae4c0ea67a123fe55c5e069d0f59"
+  },
+  {
+   "file": "R_05/SE001/Train/EinsteinLarge/R_05_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "86af7d8dc96a2e1870e1f41080bae723de1caf81c92d53f2ba45cce2204a960c"
+  },
+  {
+   "file": "R_05/SE001/Train/EinsteinLarge/R_05_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3b619ad34830cac1f9da0c051d68a15c2e9fb7f78fdb7ee2925c1570fe22b3a8"
+  },
+  {
+   "file": "R_05/SE002/Test/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "13e6c26cbd1698333af748368aa465b41ea626c9b40739ece7d029bd52301b5c"
+  },
+  {
+   "file": "R_05/SE002/Test/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "0a27f8c45e3c40dc2a3643ae660ea085eeb256a48ae2793034771fc2df4ee6af"
+  },
+  {
+   "file": "R_05/SE002/Test/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "e90d82021e2b29da730f05301d9438cb4d35a056569877bdeabab11ead4e3c67"
+  },
+  {
+   "file": "R_05/SE002/Test/EinsteinSmall/R_05_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "a7db345811cf2da8b39d05372c4f45f0a28e96b278f50bc934e00905b77bee37"
+  },
+  {
+   "file": "R_05/SE002/Test/EinsteinSmall/R_05_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "56098b4e570057ee19a418618f5cebec3a34570e2618d3147717d310381ec2ae"
+  },
+  {
+   "file": "R_05/SE002/Test/EinsteinSmall/R_05_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "6278d2f95a804e58d74b3a139957f9c59afb7bac7e1198ab729b8471c71fec7a"
+  },
+  {
+   "file": "R_05/SE002/Train/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "f19d15d66dff99410227226f8c9a1607848bbaecc735da5f39652df1d13b2edd"
+  },
+  {
+   "file": "R_05/SE002/Train/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f72a879111077c3aacfd7d576791c4b7223aa3ea39fc8f6c74456c90e90d4d4e"
+  },
+  {
+   "file": "R_05/SE002/Train/CrystalizeSmall/R_05_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "86c8e71fe835b9c51f7bf891c8f494f519ecf75dd54d6dab7508d0eb3d688d1b"
+  },
+  {
+   "file": "R_05/SE002/Train/EinsteinSmall/R_05_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "4b89db273a1f89bff2b8cbcf34c29497a97550adad2d77ea8a7af0df2107922a"
+  },
+  {
+   "file": "R_05/SE002/Train/EinsteinSmall/R_05_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "b663bc909eaed9a1fde6edf9cdd05aea9a0982ebb57c21ee5499da909b349903"
+  },
+  {
+   "file": "R_05/SE002/Train/EinsteinSmall/R_05_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "2f842e7cef642d9e79fb086835438a6e96c0e2a72f393753df137d86eaa165d4"
+  },
+  {
+   "file": "R_06/SE001/Test/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "bb39f35db6f0d2cae85261a4ef5079ce2eefed4399bf5fc11a9e66844657d696"
+  },
+  {
+   "file": "R_06/SE001/Test/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "29033a644a5259019bc032dcce2277c0ce4a417c9faece4debe38930de89afe6"
+  },
+  {
+   "file": "R_06/SE001/Test/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "b1c3b8060f92b376323688f2793d689bc2c284adc10992c5beec73412727cd92"
+  },
+  {
+   "file": "R_06/SE001/Test/EinsteinLarge/R_06_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "b35952ff87c7981b02bcd57b69ccbeaa0591f60b9fddcd0acf3e8be20bb5f913"
+  },
+  {
+   "file": "R_06/SE001/Test/EinsteinLarge/R_06_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "1c72b9534b01ec2fe4e79fa79071bed6164a74994c2eb06c9268ecc691727473"
+  },
+  {
+   "file": "R_06/SE001/Test/EinsteinLarge/R_06_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "1e2400b8f3c2da64a0c1d4cb1e5eb8a3170854a087ff6df12c40a4b653e1891b"
+  },
+  {
+   "file": "R_06/SE001/Train/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "84e6efe5a87f910cfd1b31fceb7b719ba93ac4a5ed590d0dbc204f7ac1790624"
+  },
+  {
+   "file": "R_06/SE001/Train/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "5569a4c82a54a5a37f93245692a9e911c4193783ac21f7661f9c6d659e30e1bc"
+  },
+  {
+   "file": "R_06/SE001/Train/CrystalizeSmall/R_06_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "34fa54d379ea31b80893093262c4aef6ab428df86835c2daa32d48f25c1a64ae"
+  },
+  {
+   "file": "R_06/SE001/Train/EinsteinLarge/R_06_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "b3592356cddc1b414fda4d19f5944d5558d4d54e2b9e75003585c4f843c64271"
+  },
+  {
+   "file": "R_06/SE001/Train/EinsteinLarge/R_06_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "5a06aabecda9d8c2edecef5f0f59754ce42e2cee263ad9d6374cab23f46453d3"
+  },
+  {
+   "file": "R_06/SE001/Train/EinsteinLarge/R_06_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "7c63ee5f3ba821e7c8fe548009a7d472310be6f65bf303af1d77f5774c4d4c9f"
+  },
+  {
+   "file": "R_06/SE002/Test/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 5051190,
+   "sha256": "b792d310f21cd2d03f5c297019d4c4507f578031675ccef239770bb6209ebb12"
+  },
+  {
+   "file": "R_06/SE002/Test/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 5051190,
+   "sha256": "e72528d698079ba1193ab4037fb59062d59fc400ea8654e3a505a85b1f54b0b6"
+  },
+  {
+   "file": "R_06/SE002/Test/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 5051190,
+   "sha256": "2a7c96399f5983a54633969c18693dbcc518096614eb214078219e46995fac31"
+  },
+  {
+   "file": "R_06/SE002/Test/EinsteinSmall/R_06_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "e50fa667c52d8ddf3a168f0d2a8278ca7b5591d626ad39cd069f243d43159fbe"
+  },
+  {
+   "file": "R_06/SE002/Test/EinsteinSmall/R_06_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "3f783513f8d5aad51aae2d1cfa28a00b7c470bc6385a6cf08ce388d3217e8190"
+  },
+  {
+   "file": "R_06/SE002/Test/EinsteinSmall/R_06_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "2e47bbaabe0b32656850600f9e92b5e5840a9d2255e1b6fb03922101364c8999"
+  },
+  {
+   "file": "R_06/SE002/Train/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "4829409924e471357a0425461464bddf30a634572ce967bf9c4a655fbdef1ddd"
+  },
+  {
+   "file": "R_06/SE002/Train/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "4e21b59047871704f14e7056889a8b7d187249b67e24bfc9ba2228724f036b1d"
+  },
+  {
+   "file": "R_06/SE002/Train/CrystalizeLarge/R_06_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "f5dc7711d65e90c9c6dd9eac8572ea56b4770d83d681e3ae120b950e18450f87"
+  },
+  {
+   "file": "R_06/SE002/Train/EinsteinSmall/R_06_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "adeb75cfc601f225c2022994534e319faac797c7d7ffa4addc3f925f1c84e312"
+  },
+  {
+   "file": "R_06/SE002/Train/EinsteinSmall/R_06_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f3d8f47d239478609d6e806196d91a9d820434ab85b0dc813600943529452e88"
+  },
+  {
+   "file": "R_06/SE002/Train/EinsteinSmall/R_06_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "f2a5c5b74fc8d2db9123f768265ebc7b521b1d943d33ab140594cd665500f39a"
+  },
+  {
+   "file": "R_07/SE001/Test/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "a9a986d271e744c0ab070c067e1a30f81d5bf6fad9064decb72d58b0a0747f93"
+  },
+  {
+   "file": "R_07/SE001/Test/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "2e3da3241df983c6e2e563cb0cfb4de8445a3917d516facf3820f87dfbf4b6b3"
+  },
+  {
+   "file": "R_07/SE001/Test/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "409c0be11be21b129e46a3745c1d526db96707739767cad5f0161a302dda2d24"
+  },
+  {
+   "file": "R_07/SE001/Test/EinsteinSmall/R_07_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "e08df84782d5a10adaeae318bbd2883236512af17e48d2624eedb1da50842378"
+  },
+  {
+   "file": "R_07/SE001/Test/EinsteinSmall/R_07_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "0a7bacc153aac634f417627a03c2344e50e28abbf87f1c4df7a7f163c1624727"
+  },
+  {
+   "file": "R_07/SE001/Test/EinsteinSmall/R_07_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "4ca0a0c56c5dbae98fa1de641c71295ab32ab415e5ca087bfb1e1ca61442d848"
+  },
+  {
+   "file": "R_07/SE001/Train/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "c351bf5f0701bcb157b08f21c8b22176cc366b6a63c816e8fccf87259abaf4e6"
+  },
+  {
+   "file": "R_07/SE001/Train/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "4c7d52c35d4d819d4e34cbb61a3502ace9382eb679a3577191db8408b8efdcbd"
+  },
+  {
+   "file": "R_07/SE001/Train/CrystalizeLarge/R_07_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "46b8c1907ff6be65e89cdccdaadf1617a333135cdcca329a2dc720ee695f0b60"
+  },
+  {
+   "file": "R_07/SE001/Train/EinsteinSmall/R_07_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "de37bc777f5af28e00cacc6190c4ef9529f1e50810467af74e69ecb9607bbe44"
+  },
+  {
+   "file": "R_07/SE001/Train/EinsteinSmall/R_07_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "b6b0f28653f8ec52289c1963bfb358b1e950019adf2f20aa6c1de63d289db66e"
+  },
+  {
+   "file": "R_07/SE001/Train/EinsteinSmall/R_07_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "e191c97b087c6d207121f72b45fdf4ef191103285e2a776cb00971424abeb032"
+  },
+  {
+   "file": "R_07/SE002/Test/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "15d0e89ef063f2a501ac955e9d23763038183ba5700eaf70b0b1cf91e062f527"
+  },
+  {
+   "file": "R_07/SE002/Test/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "f7a76dec0041bd0c409c98069c5f5a6398533bc5c495b59421c8e18f93557f14"
+  },
+  {
+   "file": "R_07/SE002/Test/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "ccda1d3edde7e0f758967daa8ba6fd22cd50a4fb09ed6efb198406ec2861aeea"
+  },
+  {
+   "file": "R_07/SE002/Test/EinsteinLarge/R_07_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "cba5998610a847085f0d6ef9bdae61e0b9c1c63b5d4b4060358b70dc4f00af41"
+  },
+  {
+   "file": "R_07/SE002/Test/EinsteinLarge/R_07_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "b5e6d19d8255a4f81f6d46ec029968367c7362ad654356745f6dcabf2428255d"
+  },
+  {
+   "file": "R_07/SE002/Test/EinsteinLarge/R_07_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "e9549bae89ee823394e337381b3861ffaba92ce568e2ae648a5675c289e5f1a4"
+  },
+  {
+   "file": "R_07/SE002/Train/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "f0bfbc43b8fd33b667e547ae7c43c143dfcc05572fcb1f582358471dad9c0c21"
+  },
+  {
+   "file": "R_07/SE002/Train/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7d975b3bb7bcac1d29a3c93660792e232e324a6f1229e3d3420a996a0fb450f4"
+  },
+  {
+   "file": "R_07/SE002/Train/CrystalizeSmall/R_07_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "026e19a83a94556f24466e2e90a30c35a6540a979a4d949dfeafb951cdf5044a"
+  },
+  {
+   "file": "R_07/SE002/Train/EinsteinLarge/R_07_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "683ae35dbc66a690c8ed83dfab8ffa1a86aaafb515968dc6ee3553514d7d0e78"
+  },
+  {
+   "file": "R_07/SE002/Train/EinsteinLarge/R_07_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "ebae47eb7fee4908c7ab39967987541187be6f50cd78647eb7e2275906a72875"
+  },
+  {
+   "file": "R_07/SE002/Train/EinsteinLarge/R_07_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "7eae6123d72301edb05b48e45b7840d78892949e023934012af743718daa0668"
+  },
+  {
+   "file": "R_08/SE001/Test/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "24be796728ea836817ee7206bcc07c97170e87a6882077e2e6c363e9c58a4e0e"
+  },
+  {
+   "file": "R_08/SE001/Test/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "23a4811b92ced6bf75f4fd5ffca7f969e8aaed5cf8ad500d2bf2f3cde5594cad"
+  },
+  {
+   "file": "R_08/SE001/Test/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "80ec78d68f86305177920a6123dc9c7b75d1cb9bcd7ab59939e1a4e762f70595"
+  },
+  {
+   "file": "R_08/SE001/Test/EinsteinSmall/R_08_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "00e95131544a0fe4a6638bd59b955588768b341cbe45f3f5f7e049c5e2694592"
+  },
+  {
+   "file": "R_08/SE001/Test/EinsteinSmall/R_08_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "aad269417c4e15bd8575e691047f1efd353244d3a02364d4118f2fff0a0b79ac"
+  },
+  {
+   "file": "R_08/SE001/Test/EinsteinSmall/R_08_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "538caa672d45c706c57e32c8305b20063ed54ce511b0e7e5b433c3b527d2002c"
+  },
+  {
+   "file": "R_08/SE001/Train/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "582caa33a033b6fe5543adf72caeb8e32d0b5689274072bfa9f6bfc45b0927c7"
+  },
+  {
+   "file": "R_08/SE001/Train/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "28f76972442b6de9b0aaa4dda7d82906c360d2d97995d76c5bff5f2d0283d62d"
+  },
+  {
+   "file": "R_08/SE001/Train/CrystalizeSmall/R_08_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "95eaccf6593940c54aec417435023f9f0f233cf5e8c40c3306f0423256e8598c"
+  },
+  {
+   "file": "R_08/SE001/Train/EinsteinSmall/R_08_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "1d13341beef16119e0c1dd98e0dece1e41100c61e2db9c48a2590ec40bd6f6d3"
+  },
+  {
+   "file": "R_08/SE001/Train/EinsteinSmall/R_08_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7af56c1340c19a330e5a1187c126cf3c12c8f9f1f0b4411200bb0a602e2bcccf"
+  },
+  {
+   "file": "R_08/SE001/Train/EinsteinSmall/R_08_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "d3e58c441b0f841b624c80755dff4af0058bf18f6d2cd3d5147dff1c07afdbdc"
+  },
+  {
+   "file": "R_08/SE002/Test/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "819b102dd5a7728c8d0104b3bd50a9f8e2812567d72683dc86c5a0082bb2f5a5"
+  },
+  {
+   "file": "R_08/SE002/Test/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "a6f94039299c5dd9d83acc14c0b3f6d3eceed8915c7bd012dd345d23a729c9f6"
+  },
+  {
+   "file": "R_08/SE002/Test/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "a216a5ba834a7d2a90267708969600017be33b64a5ac6d77e8e6f52a3fc8954a"
+  },
+  {
+   "file": "R_08/SE002/Test/EinsteinLarge/R_08_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "b476e12f94e33cf69ce744fbf331a023dd1ab92d612b04153d09d5a53e389fb7"
+  },
+  {
+   "file": "R_08/SE002/Test/EinsteinLarge/R_08_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "30618a8a293839bd9845ac03e04abe73ec24ddd321b80d67ca0f0fba4f1e0f55"
+  },
+  {
+   "file": "R_08/SE002/Test/EinsteinLarge/R_08_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "6cdc055ec05ff16a612342b2083f1d84817f18af61a43837c5e956e4820e726a"
+  },
+  {
+   "file": "R_08/SE002/Train/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "644eee7475e5decb5c52f97004c07a140bd5a0645630e5b77df75554dca39f29"
+  },
+  {
+   "file": "R_08/SE002/Train/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "9ff7f18990e824ef27578813567851fc040f09e1edc36f87fc5a4e9d07ec5a39"
+  },
+  {
+   "file": "R_08/SE002/Train/CrystalizeLarge/R_08_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "ccb8dc9d2388c7ceabcefa3abea03cbab90c84162ff128438725c885ef3fd944"
+  },
+  {
+   "file": "R_08/SE002/Train/EinsteinLarge/R_08_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "ceb07c20717615a92ed6dc03ef3cbd2967118c50bd99ac9fd6f7c62d6b6365db"
+  },
+  {
+   "file": "R_08/SE002/Train/EinsteinLarge/R_08_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "1a7d8d1958262333af6002b886ee43054407f8db355b33b1c3776837fc26cc07"
+  },
+  {
+   "file": "R_08/SE002/Train/EinsteinLarge/R_08_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "69b0daba2d4bb1f70a5a70f7b3cebfe884d43b48f380ee56fa34eab1ce7739e4"
+  },
+  {
+   "file": "R_09/SE001/Test/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "f87c8b33f9b00a8d05ec997d0b82a892cdad33664eec7f4905e89ca72abb97aa"
+  },
+  {
+   "file": "R_09/SE001/Test/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "31a6bec440960adad3f906c7f47559f7d66935abc75414f5341ea7cda8b6db58"
+  },
+  {
+   "file": "R_09/SE001/Test/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "747212f0efa638ef319c7cfde16bc6e39197836de6dab0ddb122bdc8c2306b65"
+  },
+  {
+   "file": "R_09/SE001/Test/EinsteinLarge/R_09_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "e3d8d5d29782e99ba01e4d18c223befc34c71fabc66296d2a7b9b6809e564f19"
+  },
+  {
+   "file": "R_09/SE001/Test/EinsteinLarge/R_09_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "a5f0f12bac67e6937ac10cef3711d2598ad93c130bd0c0bbee283e8ac2c75f4a"
+  },
+  {
+   "file": "R_09/SE001/Test/EinsteinLarge/R_09_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "2ad77ef419fb1d9ef52df18622a0161e22eee3523144b72df4f670c09d4fc641"
+  },
+  {
+   "file": "R_09/SE001/Train/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "5c41f8d73eda6d6bb28bdc2dbe2bc4f8515aae8586d58fd9fdb7097da4407cdd"
+  },
+  {
+   "file": "R_09/SE001/Train/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "4b338d12e9755c3c19ddc26b40767a8e2fb366d0751c4d52e05b60998e3dcbcd"
+  },
+  {
+   "file": "R_09/SE001/Train/CrystalizeLarge/R_09_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "8ff6198a7d7f4e405df1fbff61fe34707bf047e0e626a5368420e1349713c111"
+  },
+  {
+   "file": "R_09/SE001/Train/EinsteinLarge/R_09_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "f154c2ac39ecf954a0c3efa65fa8314915469103c7025ea20b733cff81f2167f"
+  },
+  {
+   "file": "R_09/SE001/Train/EinsteinLarge/R_09_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "b859e9fc47d3b0351fb438886f646cfad3c62df4f46b2f75d4100e191934dbd0"
+  },
+  {
+   "file": "R_09/SE001/Train/EinsteinLarge/R_09_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3f190bba79c1e49be0736a3ef71be2f1bc480c8f439467bf0791272cba33c6cd"
+  },
+  {
+   "file": "R_09/SE002/Test/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "3c73235a1ece713c30b183990dc57492ab389705186915f58d17ba7044fce060"
+  },
+  {
+   "file": "R_09/SE002/Test/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "935a5bb0ffe0d5d253c47768c31245c15447011eb9cb1f52af8dd42c3caef83a"
+  },
+  {
+   "file": "R_09/SE002/Test/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "5252673804d36b107049a030065656c253a5c6bd016dd3d520bd58e555749c8e"
+  },
+  {
+   "file": "R_09/SE002/Test/EinsteinSmall/R_09_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "f47d2dfce58f434a0859eab1e02f5efdf4339c41d5618aae705775c589aa620a"
+  },
+  {
+   "file": "R_09/SE002/Test/EinsteinSmall/R_09_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "5fcd2cd534d1bc410aafe4e21c6f876891b3d425aa23a92ef28cedaddb89603c"
+  },
+  {
+   "file": "R_09/SE002/Test/EinsteinSmall/R_09_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "1103d317f3e123b7d325a01accc0c77b364cd9ed4438d0dc8c4ec2f23175ec53"
+  },
+  {
+   "file": "R_09/SE002/Train/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "cd8f0c165be3030a84690714247920461062296ec1bc6fe85ad251ec18c7c78a"
+  },
+  {
+   "file": "R_09/SE002/Train/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "04f78077043c330c219751836ff04e6df00217bfca8931c887597f8e53adf24a"
+  },
+  {
+   "file": "R_09/SE002/Train/CrystalizeSmall/R_09_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "cd8f0495bfd5dfd34f50a332e91ee6c0ec72c337ab037f3a9c7d6c3414f22dfe"
+  },
+  {
+   "file": "R_09/SE002/Train/EinsteinSmall/R_09_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "1625c5d5096a85e777130eb351bf6b4e2efba58d9005441cff2241de11cc256c"
+  },
+  {
+   "file": "R_09/SE002/Train/EinsteinSmall/R_09_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f4da0e5bead87494dfd9af187d22711e3d641b09aded4417d0647e2e72b5ffe6"
+  },
+  {
+   "file": "R_09/SE002/Train/EinsteinSmall/R_09_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "30340782c752d0c0ce5706881e73c6711f55e92bec8d5de088c9e44db622195e"
+  },
+  {
+   "file": "R_10/SE001/Test/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "4396e114d1ba1edc2e3695b04e899f9300aa70a1c9e3260c7a75b6e10dc62292"
+  },
+  {
+   "file": "R_10/SE001/Test/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "a55288f5bbde2c06e33f674806921721b65f2d0b09a5051080ccb6a89ff9deb9"
+  },
+  {
+   "file": "R_10/SE001/Test/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "b3e8a8d48f690376446d4d8cd6e7bd57265fd78c37d192f728fd5c9a83fa65e0"
+  },
+  {
+   "file": "R_10/SE001/Test/EinsteinLarge/R_10_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "0a1674ee71ae68992bb69096c4077d2eea2cb2354bf2bbd175b36686973f5814"
+  },
+  {
+   "file": "R_10/SE001/Test/EinsteinLarge/R_10_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "c7bfa9f31d7b3053885d274b0a1db82ae20964cd08db0a13b4f250ea0d714f3f"
+  },
+  {
+   "file": "R_10/SE001/Test/EinsteinLarge/R_10_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "ffeee1129b753412203974b0d45eb266bada6d9b9c142c974fb248761b84c518"
+  },
+  {
+   "file": "R_10/SE001/Train/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "b7d760068f6d2f63ff5f7ad2bc1c36dade9bb545f20976520857c403bc19f919"
+  },
+  {
+   "file": "R_10/SE001/Train/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "410f3b4af3adb2fb8e848c924033e4d92bac397c837bde2c0449effd801566e5"
+  },
+  {
+   "file": "R_10/SE001/Train/CrystalizeSmall/R_10_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "670eb8f24c6c2038a7b885201d74ef8422443191b8b403ec4f5e386b70a51521"
+  },
+  {
+   "file": "R_10/SE001/Train/EinsteinLarge/R_10_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "bec1c1389613c2d7c9ab10ef0c4a6e4186e47212c30f269d37339d7a0a0bffce"
+  },
+  {
+   "file": "R_10/SE001/Train/EinsteinLarge/R_10_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7b60ce82b10ca8c0e5b9c8121e0510228500698f58536fbb91b4dcb8e0efd0ad"
+  },
+  {
+   "file": "R_10/SE001/Train/EinsteinLarge/R_10_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "0de75ef81a32bb2c1eb6686d5c8dc45c10cbd58d2cda811ed118700e35641240"
+  },
+  {
+   "file": "R_10/SE002/Test/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "538e7a45874f01b8c147e96d12750cb9b22548d7c4f73f12beeacb1414a8cae2"
+  },
+  {
+   "file": "R_10/SE002/Test/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "90fdb828977792fe4369fa812c462f56bc674082c183aef9e27e6f69a7e37fc8"
+  },
+  {
+   "file": "R_10/SE002/Test/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "47b864c7dee2067538531e03723116eedabc8cab770491f8f69fbafa181c4223"
+  },
+  {
+   "file": "R_10/SE002/Test/EinsteinSmall/R_10_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "d21a2bf19c2ea7fa97bff2eb782cd64a0f25acfb80df92655930c4544f5dd775"
+  },
+  {
+   "file": "R_10/SE002/Test/EinsteinSmall/R_10_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "73e98adf7532b2148f23495be2e981142c8796a306057f0d96a54d6b8127f77a"
+  },
+  {
+   "file": "R_10/SE002/Test/EinsteinSmall/R_10_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "ce145d42d37e3ea3f44d16965371fc4659f4b2979ae81076f15fb6f6283aaafd"
+  },
+  {
+   "file": "R_10/SE002/Train/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "918cb28814e1532837df55961047a507d795c04843e58ed11b0bc857681a11c2"
+  },
+  {
+   "file": "R_10/SE002/Train/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "3f46c3d03412608ddf88092b5a56c6ba1c023531064e0da8781b3563e71afb41"
+  },
+  {
+   "file": "R_10/SE002/Train/CrystalizeLarge/R_10_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "87bef2126208688b776fffb8b286165ed10d9903a646ce22c7757807ed77b9c3"
+  },
+  {
+   "file": "R_10/SE002/Train/EinsteinSmall/R_10_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "fe2304397cae0d2f7bc96b26acb548fa5b1b555fd280f2ba803e01ef851dd292"
+  },
+  {
+   "file": "R_10/SE002/Train/EinsteinSmall/R_10_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "eb6887e236d447942a7c83abc141b5196a3cff7c2cf85bc937a08b7d6523bb6d"
+  },
+  {
+   "file": "R_10/SE002/Train/EinsteinSmall/R_10_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "aea26ef47d893c5eacbdaf0ec2886e3050bf7c6053df61071bc2ce7295be7b8e"
+  },
+  {
+   "file": "R_11/SE001/Test/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "4826e877adadd23bcea141f7f17281c8fce632da7b92345979fcfc45dc359e26"
+  },
+  {
+   "file": "R_11/SE001/Test/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "b36168d5cc26ac44895ccdc8b4baba93e7c4b52b2f487182c7f52e39b9330898"
+  },
+  {
+   "file": "R_11/SE001/Test/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "c99811dae45abf719c924032fe319044b39a94e7548646556e1d6e448c5fb6fc"
+  },
+  {
+   "file": "R_11/SE001/Test/EinsteinSmall/R_11_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "f8675938c97bb1c21ca520093c103f55e1ebdb2be69cdc86459b21fc639c8fd8"
+  },
+  {
+   "file": "R_11/SE001/Test/EinsteinSmall/R_11_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "6ebd993fc54381bbc4a351200d9f40dd1b4cf3f9effae8183ecbd96080ada926"
+  },
+  {
+   "file": "R_11/SE001/Test/EinsteinSmall/R_11_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "1598058d4f0e9834af9dfb0232c7bc29466903ec1e01120f5f52cb269e3f4b4a"
+  },
+  {
+   "file": "R_11/SE001/Train/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "fd529ea3638c6f203997efeb310266ed3f68adcde0d1ad20d5cff884cf17fa9d"
+  },
+  {
+   "file": "R_11/SE001/Train/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "0812a791df59f62b850cf491f11978e7cb298292fbac7a826df4b5c2f46d29ae"
+  },
+  {
+   "file": "R_11/SE001/Train/CrystalizeLarge/R_11_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "bf184d5fd1fcb7785d570dfa33c929c292a1ab39c08c924b0842a8ecace9e141"
+  },
+  {
+   "file": "R_11/SE001/Train/EinsteinSmall/R_11_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "602fe350816a88a7e0c5cb69a5291f86fa23f8a51477447777d7a54190aebd1f"
+  },
+  {
+   "file": "R_11/SE001/Train/EinsteinSmall/R_11_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "a3d85b2c9ec19cd10c9185c6fe4420cdbcc9393b37860167926b708c42dacb56"
+  },
+  {
+   "file": "R_11/SE001/Train/EinsteinSmall/R_11_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "49deeaacdcc37bf30eda96d16388417fae6a2e20867132b6dbc3f8085bd989f5"
+  },
+  {
+   "file": "R_11/SE002/Test/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "e97e296849cf18064454ddd2f3c630e3c9b6dc8128cf5124fd03ffb16bfa96de"
+  },
+  {
+   "file": "R_11/SE002/Test/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "c1e534e372594d55ce399688de15380db2e09d56aab21c28aad5180451799770"
+  },
+  {
+   "file": "R_11/SE002/Test/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "8b196f174e376c51710a41a022fc3680e6b0d8da3ae3ace90e930151c33cea10"
+  },
+  {
+   "file": "R_11/SE002/Test/EinsteinLarge/R_11_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "34eabf6b978f7bf5428efe96efd24d097018e62002befa7a6620ad2217ca222a"
+  },
+  {
+   "file": "R_11/SE002/Test/EinsteinLarge/R_11_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "3ef5d8c79f999c61ca9515661fac3aa7ca109211b8e543c91baf626d13bedb01"
+  },
+  {
+   "file": "R_11/SE002/Test/EinsteinLarge/R_11_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "4afd3da8b808b1a6dcfea7de93b1feb90e17e2375e1320a8c7ae2ebfbc2404ed"
+  },
+  {
+   "file": "R_11/SE002/Train/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "d206b0a59021672b94e9f4c752565167d88de7daaae4bb19746ae7579da02889"
+  },
+  {
+   "file": "R_11/SE002/Train/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "86c1041c488d34bc493adc8949ee52b9b9d35fe7c735250670a25e04dbc748c0"
+  },
+  {
+   "file": "R_11/SE002/Train/CrystalizeSmall/R_11_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "744fedc8a9358b9c7d90b7c40648ce9c21b88853f4b8afc6d4c65e43a2e8b779"
+  },
+  {
+   "file": "R_11/SE002/Train/EinsteinLarge/R_11_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "3d3f357c6b2fe9b1837d42492ea5a38098b8ad023c6dadf2f0ea5f6eeea0fbad"
+  },
+  {
+   "file": "R_11/SE002/Train/EinsteinLarge/R_11_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "2331a29979ac418a6c4db17369d0073bc263b5fbe53d626083b8343108ace48d"
+  },
+  {
+   "file": "R_11/SE002/Train/EinsteinLarge/R_11_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "398dff1a50542c1f3ef09031b40c2101697f5fa257ac80f439a2a0c4040685a1"
+  },
+  {
+   "file": "R_12/SE001/Test/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "a5f2c289a00c77ba1de57f6f44645625fe1355a53ca6a1416dc16be719d79e1d"
+  },
+  {
+   "file": "R_12/SE001/Test/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "6151b23e72c41f5722cf7c32a2cfa36890c5bca5bb80698a4eff8eecae7537bf"
+  },
+  {
+   "file": "R_12/SE001/Test/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "8a4962bafb62fcd1aea3c0a8c7664b9d6418ed1491fb53bbd1ef23cfd37408ee"
+  },
+  {
+   "file": "R_12/SE001/Test/EinsteinLarge/R_12_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "b2088cc1ca5b25752860c1957cf793411e3a7e1f548d0a61af3e1565231037e4"
+  },
+  {
+   "file": "R_12/SE001/Test/EinsteinLarge/R_12_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "795ebf70227c38782d8e81e63016dd0db08d90ab0765655f699e0ed069b02bc3"
+  },
+  {
+   "file": "R_12/SE001/Test/EinsteinLarge/R_12_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "9456daff6cb7f64ef4547a7a6238e44832f18130b09ef5ddf32284bccb9a7e1b"
+  },
+  {
+   "file": "R_12/SE001/Train/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "0fbbcc872f1dcc13542809e015b82b71d32eb693b765c71e2b4bf1847b75e6ca"
+  },
+  {
+   "file": "R_12/SE001/Train/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "a9180a6cc4d90a41f1df19f024e2b7f6387de7bf5cf97c411d634a5a0a49a92d"
+  },
+  {
+   "file": "R_12/SE001/Train/CrystalizeLarge/R_12_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "01d87688f3109ab397b6df975f603f5d427b7da8a5761e0795034dff5209fbfa"
+  },
+  {
+   "file": "R_12/SE001/Train/EinsteinLarge/R_12_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "8f3fec4f684808667f9abfb5b2992d56011c285d967c3220b83ec35684fba17a"
+  },
+  {
+   "file": "R_12/SE001/Train/EinsteinLarge/R_12_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "006ee25ce5432410b82a67d058eb09a593d365356179bf1a96a80bf62644db07"
+  },
+  {
+   "file": "R_12/SE001/Train/EinsteinLarge/R_12_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "f37de69d681669e15fadd0773e520e5e90682db6addd83bb464825d3b4ba1895"
+  },
+  {
+   "file": "R_12/SE002/Test/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "703da8436427bec77c2f8027ec6c0a1af50ff3e1a4a67d0a7d78405895e0cbf0"
+  },
+  {
+   "file": "R_12/SE002/Test/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "5b8dcc91c545a80491817ea2f2f154e03657377d245f46134b3657b9544f6044"
+  },
+  {
+   "file": "R_12/SE002/Test/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "883ada41ac9ebc7b79852903a225c988676693da147e0c7589a45d61a5e90b05"
+  },
+  {
+   "file": "R_12/SE002/Test/EinsteinSmall/R_12_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 5051190,
+   "sha256": "f3aa971960801cd1af8aaa2fe6e76aa54c4af5bce65256eea378f8f5c30fb4c8"
+  },
+  {
+   "file": "R_12/SE002/Test/EinsteinSmall/R_12_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 5051190,
+   "sha256": "98a967700ec4e8ddbf901d51d818cb96bc0ee45e812c62c6586ef9abfb28d8cd"
+  },
+  {
+   "file": "R_12/SE002/Test/EinsteinSmall/R_12_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 5051190,
+   "sha256": "5d704259db9e19487cc564469785d4a284f5df50c5ff3c81e923a8e21ce4a993"
+  },
+  {
+   "file": "R_12/SE002/Train/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "dc3471eab2458e44fe37680c22c388ad205caeb60ddbe4539b6aa8a2ca8f143b"
+  },
+  {
+   "file": "R_12/SE002/Train/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "602fafb3f245cb5dbf89fa444fe8dba32520779448a94479c9f73ee5ccdd7046"
+  },
+  {
+   "file": "R_12/SE002/Train/CrystalizeSmall/R_12_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "e90cbdf013a10a987f8252750d55417968be5113d6cf6baef814bb5f288d131c"
+  },
+  {
+   "file": "R_12/SE002/Train/EinsteinSmall/R_12_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "401cec61cbb62e470a767b7e2e2859c26d8aaef778fed0a4cb3b602b7ba7ba74"
+  },
+  {
+   "file": "R_12/SE002/Train/EinsteinSmall/R_12_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "72051480d68675c61b0620316e4bbfa8518c77b660676e05e6af967ed146b7db"
+  },
+  {
+   "file": "R_12/SE002/Train/EinsteinSmall/R_12_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9d3a98a7b5b1be2219a6d2f51f10d2fbf575ce8eabb577d1bcdcad87c5c65133"
+  },
+  {
+   "file": "R_13/SE001/Test/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "a65110eaaa37671fe5713e08b8d1c98cef6be9fc887912c5575b0776df5b31e5"
+  },
+  {
+   "file": "R_13/SE001/Test/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "46b6dc76d29bbb772aec651a2374f08e0f702a4a60241bc8965d5fdb8f26de60"
+  },
+  {
+   "file": "R_13/SE001/Test/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "d27dfdcfd339bba1208d457da58bb94ccbbe1c995c964b64b327773704c28610"
+  },
+  {
+   "file": "R_13/SE001/Test/EinsteinLarge/R_13_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "464e93098505930f71a3179bbd502f459a1bf069fcb1475ee3a1fdf00c6fa35f"
+  },
+  {
+   "file": "R_13/SE001/Test/EinsteinLarge/R_13_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "561d024d97a9028d0832d9c45ab46db4b506000e957f7ba73055a1ed4d6d28e5"
+  },
+  {
+   "file": "R_13/SE001/Test/EinsteinLarge/R_13_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "9f259cb1e365f9272784af6722aa55de89695d62421790f0b9ede40fa0914d53"
+  },
+  {
+   "file": "R_13/SE001/Train/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "902ecd26c1b348bd96b086ca2b89d257c07e6720fdb9ce345fce9d457c37bd11"
+  },
+  {
+   "file": "R_13/SE001/Train/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "e0b65d144b0a484f57a11dbe8c9fc6033ae32fd478485e0a88c50e4ef0f867e6"
+  },
+  {
+   "file": "R_13/SE001/Train/CrystalizeLarge/R_13_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "0173799e9baf5a1dddff063b85abfc77448f1f47ee80694d3050f287730de4dd"
+  },
+  {
+   "file": "R_13/SE001/Train/EinsteinLarge/R_13_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "69a65dabd9d22bdcc3465b69f1522ee0bf5ef0324d3ffd59cae6ba319929fd52"
+  },
+  {
+   "file": "R_13/SE001/Train/EinsteinLarge/R_13_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "306f13c81642616c51106805c723293eeef2cadcfa40e0852b8761b3f489732c"
+  },
+  {
+   "file": "R_13/SE001/Train/EinsteinLarge/R_13_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "be6a35f3481ee237e072a8bb805e9d09ba0e89156ff42ff4f93981ebef6bc4d6"
+  },
+  {
+   "file": "R_13/SE002/Test/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "9337e92c17aa262f37586624af4b6b74145520067fd995cae8dbddf2c2e2cb9a"
+  },
+  {
+   "file": "R_13/SE002/Test/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "6fd5aea5ebca6be1d31835f9aae507ee3b96d99765087f79b409178dff6c296a"
+  },
+  {
+   "file": "R_13/SE002/Test/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "dfef4219eca30508803010bba33193b51442eab2f31f4c3b712a5a8591e58e01"
+  },
+  {
+   "file": "R_13/SE002/Test/EinsteinSmall/R_13_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "6732f353c64dd25057ee5b975f86d50b6806058a80fbd988a006048614a54970"
+  },
+  {
+   "file": "R_13/SE002/Test/EinsteinSmall/R_13_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "242b655c123f174e84debb5a9e3a679aad6aae5d003cc294991246a11f420b46"
+  },
+  {
+   "file": "R_13/SE002/Test/EinsteinSmall/R_13_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "5d60b43a1c8d50d53f6ddd3aba76a485c93914ff10501eddce90d4f71ff0fce6"
+  },
+  {
+   "file": "R_13/SE002/Train/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a511d5a75556fb764e020203174ceba1fc8eba8426ee0c78715b5f4973453c4e"
+  },
+  {
+   "file": "R_13/SE002/Train/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "7c8c734a3f6364e82e13cbfe550176cc861ba7c4e482ef2144a3dc3bd765837f"
+  },
+  {
+   "file": "R_13/SE002/Train/CrystalizeSmall/R_13_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "8f6ad1580c0f5a12f5ff4776c1b8453b0e7df86635eb7db610f723a4c2d6e47c"
+  },
+  {
+   "file": "R_13/SE002/Train/EinsteinSmall/R_13_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "367371d0e954c162054e9ab38772429d9316107b308d0db2f190ac59226e5663"
+  },
+  {
+   "file": "R_13/SE002/Train/EinsteinSmall/R_13_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "ada5b553f46e9c4f05ab7de54db01773b64fd1c1ced8ee8a618510e1edfe2255"
+  },
+  {
+   "file": "R_13/SE002/Train/EinsteinSmall/R_13_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "aeebe53ad657e20954165364dc3432138c144ad2612c30f52c2546773b6de01d"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "5b23ee020990aae92914b4f8d7c4fa559808e52f84ddf6808f85cafa585cf0e9"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "fee2419b9d2759ae2b5d5b33f13b54ba9a40561bf89f789de74a4cab6cc13eea"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "33ddcad179f8e71ea0b3860ae80b7be4ec05629608cdfc756ceca77952fa04fc"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "7daabedc47583d1e30f3865001b7085e1207daf0c78b68e5a58000ea9a6f5e68"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "0154394f54e56903966125e312730738a84b262007b991cd17cfbcbdd569c4c7"
+  },
+  {
+   "file": "R_14/SE001/Test/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "b3685594798e66947c5c93e014309512c35e96431fc699795d8a9c8a30c8b4ed"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "4b324280f6eb5decdbd0457dc8dc2bffd9b3c69fb51e24d818d48523249cca71"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "34fe7bc72c43b773bc4ac4f31bed15512742b28ee0e47eb7f92e32dc9dae84a6"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeLarge/R_14_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "e38b408c05921b86e5a5ad6f763a70cf24bebe46d2b7a56e918c706eac7d929d"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "d298155cab0607f79e67d7eb6e328b636cb3304c6f7a3921dcc7dcbacc6b0607"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "26605f7f14a30779fa541cdf04624095aaac0d7c442104403d8a75ce10c98c5f"
+  },
+  {
+   "file": "R_14/SE001/Train/CrystalizeSmall/R_14_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "b98d727028d0315bab5989fbc0701c20e9ab5ac7a3fbb1a5953c457edb21b2db"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinLarge/R_14_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "74db532903eb36a8ac988dacfc7e70c5b90132b6b66ab7919365b0cb1169e759"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinLarge/R_14_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "a082e50d724919817db7f69c3f92287613f6ae46e3530451da2667b5de9c39cd"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinLarge/R_14_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "049488cc5bf5fa6735d9374235a56afe86c6472d034332fb230b33fc3ac2d036"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinSmall/R_14_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 5051190,
+   "sha256": "86022ee0312447a813184d006b0ce04a6657063e242ac8bc58c50ca9746ffc28"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinSmall/R_14_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 5051190,
+   "sha256": "fec254b3a0ad677ef4fe91f5d50867a81a91949d3f493bba6e322229658563e2"
+  },
+  {
+   "file": "R_14/SE002/Test/EinsteinSmall/R_14_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 5051190,
+   "sha256": "321452e356f83bebb4ff72c876823fa8c26d060ed75e03c6a9220934296dc2a2"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinLarge/R_14_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "6f8ab0b83b91bb0fb7f3ad32b5b5e3207dd7b585f710c49144488a3fde38565b"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinLarge/R_14_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "42c01fc1970de0321ec3a5924bb03ab13c9d511ccfced7878cd71f5f6c193a71"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinLarge/R_14_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "98d30b92cd71f67738f4b86ddf3bbefdc278838ba685793b87b7a8d91c924861"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinSmall/R_14_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "fec40ec89b7109ecfd3eb533d62c3da49add754c5a203fa1b65c5035deeebc5f"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinSmall/R_14_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "8a8854b774bf52b1d00c1652230854b21455407bf41b9da09945ed57d7533416"
+  },
+  {
+   "file": "R_14/SE002/Train/EinsteinSmall/R_14_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9b11c2447146c1c011eb3cc3f88aeabd7b73b3295c66b4898fa2459b68288bd7"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinLarge/R_15_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "25c4ecab7caa6306a2ff0b7fefebf538fd34a67e3d05eedb9860080440b38e63"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinLarge/R_15_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "0962765555014eb7373cd85f31ae758b278acc0955ffcd35503a330b3e14b036"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinLarge/R_15_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "a863216a1a8376157f4614ffffd6ff0bf927bcd90ed3368623d397f1f1972f88"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinSmall/R_15_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 5051190,
+   "sha256": "9747c8c5437dcf0d5f3d903354d6d5a259922ed7fb1fe6b920ac59bb124f85dc"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinSmall/R_15_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 5051190,
+   "sha256": "2f28f1bca09e598d1d42e6cdae2554aaccde72b5b1b40caa3515b410e3962f69"
+  },
+  {
+   "file": "R_15/SE001/Test/EinsteinSmall/R_15_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 5051190,
+   "sha256": "3ce86551c96e085ff04a8cbbbcddff2e2e408c7373c07b95c54277e8c0958228"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinLarge/R_15_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "73fd795423713b8cceb9c0bd29002eb5ff534d40a1646e91e97e44a8e88bffaa"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinLarge/R_15_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "41a05bc9ca1ad08180d068a21386ec6f236a2455a3af8dfb53e2e4e6d8cfc297"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinLarge/R_15_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "60acb80357f5b677eeaffdefddfe8a77c79106f336582a5881b773ae7e993aa2"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinSmall/R_15_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a078ffad9cf92aa5891b9d9dda288b99d9963ea392506c8f6708d1a64e633d11"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinSmall/R_15_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "95b9aee83f49f3287b5ffa30735593d3add627cbc043f6a7fce4eb4f35c226be"
+  },
+  {
+   "file": "R_15/SE001/Train/EinsteinSmall/R_15_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9894445c2a88138c89d3789d0f1795531fdba1c646871534d2a3b46fe60ba1be"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "da8c3603fec5cbf763f876382350104116b4a9919f2d885908848bd89969b492"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "f025a9c208ce8248bae6c773ab59643eeb109d0b92287ec37490445bab7adba0"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "10fc40bb53de8e035d933bfe1a6cb3e9f46b4cefc10492f0d8de0b48aaf8b772"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "6c246500332fba49dd5f34dac77c428f5865b588fb68d7f45dbc2860758a1d74"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "5fdfec5e135ac4d8cb1a7e6b1f9d8a24c187fc026af6d65a980e3d85bd15ce86"
+  },
+  {
+   "file": "R_15/SE002/Test/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "8cecf03d8d16dc71e110bd29bfdad93f9d19644bdc4925069e07a532d5538f02"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "27b3807f654d995dbcc9e1250d669913bc6bec2edfd7cf0ec0abd87354bfcc20"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "cb928146ba190725bdb3c6b717057cfc5304914a98b7c9d5310a291a06c8b730"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeLarge/R_15_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9ec82f5d66fb8d8227e767c110e24b05bdf0c56a297feab1d5fe5cf5754315ef"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "65c19ea3c01c404981d92beda0d4161ae43de2f6599f4ff2a2e48df6fe8e8e85"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "d25ed720dc36a6a6e0bf9a5af7fd0b37a3b43f4dbe9bdd5df66cdb36f024f051"
+  },
+  {
+   "file": "R_15/SE002/Train/CrystalizeSmall/R_15_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "eea5acf68195080f909d3a31780b07bf4ebffbe259174564017fca91c2bbe9d4"
+  },
+  {
+   "file": "R_16/SE001/Test/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "5251ebd816c90dcf70cd801653300493c31ecfa24a4d91df5f4824138e359a20"
+  },
+  {
+   "file": "R_16/SE001/Test/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "0cf2d98ad678ca7995271a62ece5a7330ab19b9bb9fc61812af89b983f1d290c"
+  },
+  {
+   "file": "R_16/SE001/Test/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "02ffa57ae71d6703448c76094e08ec56b9ff9416f4eba42c3340a8193b99aad9"
+  },
+  {
+   "file": "R_16/SE001/Test/EinsteinSmall/R_16_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "58eebdc284b29d202902a2f09888729fb3712b6033e9023030721b5698eea4a1"
+  },
+  {
+   "file": "R_16/SE001/Test/EinsteinSmall/R_16_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "09083f073f3fd8974906540f14812715e7b96a6f41574fe7aeaed3fdc2db9901"
+  },
+  {
+   "file": "R_16/SE001/Test/EinsteinSmall/R_16_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "e84c5ff7baf4b1931d8a287c9703d206af3e205ec4f0c58967bd7c3b7f4fb063"
+  },
+  {
+   "file": "R_16/SE001/Train/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "731c3d4812b292e160e2f5f02f50053f2cba4f8784aa335db15eb5c439350769"
+  },
+  {
+   "file": "R_16/SE001/Train/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "6b93e2cd885aa3742e4c64209717db5f0692b595bbd40bc5ec52f51471713ec2"
+  },
+  {
+   "file": "R_16/SE001/Train/CrystalizeSmall/R_16_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "ebe02504ac23a9079275f331fa48cc0bc5533d83d85326a1bc7721c72b518c83"
+  },
+  {
+   "file": "R_16/SE001/Train/EinsteinSmall/R_16_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "73dcabb1aa170ae18c1c1f826cec5a066ecdee367e646896d9d7ad40b2d080cb"
+  },
+  {
+   "file": "R_16/SE001/Train/EinsteinSmall/R_16_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "2fabb5649947034e440e1ef8cc555d634adc451da2d510f43f22130e78dce837"
+  },
+  {
+   "file": "R_16/SE001/Train/EinsteinSmall/R_16_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "d53afb519c9a0eb3d7d1baefd3522c3e5bf2a282ddfabb4df8a7624d08f9f42b"
+  },
+  {
+   "file": "R_16/SE002/Test/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "c284555235cffa7c9c1168037031860da3c403dc25e1b765c384c996e301c7ea"
+  },
+  {
+   "file": "R_16/SE002/Test/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "cdfb07ec7e7d25b3804a4034a6ba2eeb072b1ab9b14f0611cbbe6f8945f45369"
+  },
+  {
+   "file": "R_16/SE002/Test/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "778709a7f285a09b131ad2b673a13c9d3cd0d98226a738c1189f2140467b3800"
+  },
+  {
+   "file": "R_16/SE002/Test/EinsteinLarge/R_16_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "72e505c6c84b15973943b4661723438596c61362fe0123ef53d7b0db810865ae"
+  },
+  {
+   "file": "R_16/SE002/Test/EinsteinLarge/R_16_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "15f646fd8bf94097e7469735741e5d582fc6298da48eaf26864fcdc00f2906b1"
+  },
+  {
+   "file": "R_16/SE002/Test/EinsteinLarge/R_16_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "fa5fc7e627f2fd4d855551a3e49eb939315171999b2281aedbdc9f72be9d0365"
+  },
+  {
+   "file": "R_16/SE002/Train/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "fe78c084a77861c4621a9da2da84f49afd849568afd3cbdeeeedd22664339894"
+  },
+  {
+   "file": "R_16/SE002/Train/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "0f11db028a0a0b7e560c8d96027e22280248d94724c3c30db267e9d432308345"
+  },
+  {
+   "file": "R_16/SE002/Train/CrystalizeLarge/R_16_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "8386633444a6875d0f932648fccf16d51e7dec7f5ddff0a5abdda8e164e1946a"
+  },
+  {
+   "file": "R_16/SE002/Train/EinsteinLarge/R_16_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "704ef9d5b329b44d5d257ef93db0c6ddc82d61aa2dee3345d55abb79f42206ef"
+  },
+  {
+   "file": "R_16/SE002/Train/EinsteinLarge/R_16_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "2a1f3d556b4c784d49ca5f6eaa90709366e45c54852fa32a4f098b142e475e82"
+  },
+  {
+   "file": "R_16/SE002/Train/EinsteinLarge/R_16_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "c40d39b1732961af364525e9daa1ddc6c575c885693ecc20d92843c361ad009f"
+  },
+  {
+   "file": "R_17/SE001/Test/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "f1002482e4320814a763247704635e63270b8b0f0432147152909e0ac1051b72"
+  },
+  {
+   "file": "R_17/SE001/Test/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "63b41ab60a04745b22f5e40dafff462550fd948e499f02198382b621e652050b"
+  },
+  {
+   "file": "R_17/SE001/Test/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "2f406ffea82816a22f83860a5d8950701f7baff5741dfe393498724a1b850985"
+  },
+  {
+   "file": "R_17/SE001/Test/EinsteinLarge/R_17_SE001_EinsteinLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "5bbb38c1319224a6ba735738d76f8b1047ebf196381b9c96ed2d62f4b09ef320"
+  },
+  {
+   "file": "R_17/SE001/Test/EinsteinLarge/R_17_SE001_EinsteinLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "fb0141ff3efc81668808118b102b742cba9bf382a2cd270073ac75b471a253ad"
+  },
+  {
+   "file": "R_17/SE001/Test/EinsteinLarge/R_17_SE001_EinsteinLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "d4cb7f92faed09056c2d354158737cb0106c87fac55f2ddbc44521cc50783f89"
+  },
+  {
+   "file": "R_17/SE001/Train/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "427aecb70dab33bce6892246dbc40b5ad156d8e6c5e8231d35887ff8c5eda0b2"
+  },
+  {
+   "file": "R_17/SE001/Train/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "1c07449ce4c94bd79f859eff94e29d7208ada528a327ee84f69e1b321945edbb"
+  },
+  {
+   "file": "R_17/SE001/Train/CrystalizeLarge/R_17_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "257f6d45bc06988711de5a1e271772664d1beaab034b5b70110bd6517ca39828"
+  },
+  {
+   "file": "R_17/SE001/Train/EinsteinLarge/R_17_SE001_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "e44aa775ca4bcb90dc4ca8ea3b7f07a032f06cf07253e94ebe1f1b2673ed506a"
+  },
+  {
+   "file": "R_17/SE001/Train/EinsteinLarge/R_17_SE001_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "07a8c50dad1396783913f0e91283a55990235de3d3568cf3676bfca09d5e3738"
+  },
+  {
+   "file": "R_17/SE001/Train/EinsteinLarge/R_17_SE001_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9839fcb311c6f0b9336d391aa601e9243ffa692ae2805274a6527fec93c9f655"
+  },
+  {
+   "file": "R_17/SE002/Test/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "d83449a78b62d03f2a385141c020bf8f0756fbaf691e12d99f10a9eeb87a7d2f"
+  },
+  {
+   "file": "R_17/SE002/Test/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "9e258808f4981643ea071cf9522ff114716e0136f7139e3ada922864a33c5d45"
+  },
+  {
+   "file": "R_17/SE002/Test/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "82157dd0c45f324fd226961e55d884d079c54b2c3b09e300734e0d3303395322"
+  },
+  {
+   "file": "R_17/SE002/Test/EinsteinSmall/R_17_SE002_EinsteinSmall_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "daa2760b341e9aa353b2f8e1d2e7333ab15b86769fdae162943266af62d33a82"
+  },
+  {
+   "file": "R_17/SE002/Test/EinsteinSmall/R_17_SE002_EinsteinSmall_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "ceec1bf62db402e4dca04528b4b67e925c20634c6f1f6d6c85c203c1e7c1ed61"
+  },
+  {
+   "file": "R_17/SE002/Test/EinsteinSmall/R_17_SE002_EinsteinSmall_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "9ef31cecfae9408e303a9d1609a7464b45f6a7b1ddba76b3bd49a4a0bce7b889"
+  },
+  {
+   "file": "R_17/SE002/Train/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "b2fb24949951e439d96eae4653cb61ebed5e38f680314c739fc6e46a456b2fde"
+  },
+  {
+   "file": "R_17/SE002/Train/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "74fd024d7dd762b04e7239668a52573f1c56613b81f3a5361ddc653a54c59088"
+  },
+  {
+   "file": "R_17/SE002/Train/CrystalizeSmall/R_17_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "ec137ddbb9473ab5f9a3c3fca970b0d29b0dbf547c45ce1fb2a5197e516a3219"
+  },
+  {
+   "file": "R_17/SE002/Train/EinsteinSmall/R_17_SE002_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "b539ae2d95c5b6530a41fecebe667c8607314f7bbf85e3143a54a0363e382011"
+  },
+  {
+   "file": "R_17/SE002/Train/EinsteinSmall/R_17_SE002_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "5c2bc199fdfb9445ad4884c5ee8d7cc15872987410b490c9530e8d7c8df977d1"
+  },
+  {
+   "file": "R_17/SE002/Train/EinsteinSmall/R_17_SE002_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "f4643866cc807ca9213988dfdbac5e5023ed82346e71ec45960f90a04362c6c6"
+  },
+  {
+   "file": "R_18/SE001/Test/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "0f590350d4a7413e81bfb245148fe4cdb8bcc9d5e3724e350cb104a5d10c0f47"
+  },
+  {
+   "file": "R_18/SE001/Test/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "e0c888f7b17cfb960ae53d4b3c263f372d54f405088ddd00a4a7ca9e14a51a66"
+  },
+  {
+   "file": "R_18/SE001/Test/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "9f4afdb93738e4715a4523f7d1c59485bc0a19891f8e26eb9e89e706a2aa7ebb"
+  },
+  {
+   "file": "R_18/SE001/Test/EinsteinSmall/R_18_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "969ec0a31eb5af363f80566b153f89f68433ce8ada3720ae18a373e3f41dc44f"
+  },
+  {
+   "file": "R_18/SE001/Test/EinsteinSmall/R_18_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "5ed7cbae608fdee64a130313e8277c99de9a20e75439fcb6ec40d457903e24c7"
+  },
+  {
+   "file": "R_18/SE001/Test/EinsteinSmall/R_18_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "4c622fa0665d9c7311e68e32328ee7c536e699832aa41ee60a8b77e188807da3"
+  },
+  {
+   "file": "R_18/SE001/Train/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "1fc964ebbe17aede4a855b4220a4047347b6d9110ec60842a51b55659a6c07a2"
+  },
+  {
+   "file": "R_18/SE001/Train/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "3b7893280ac09e0b957893ee85c6a4ce248fda46d2985fcae573c8b9cfb4e53d"
+  },
+  {
+   "file": "R_18/SE001/Train/CrystalizeLarge/R_18_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "438caec24ec10a6c43cd90ddacd09dc6a1cc5c549cb09cb127d44c0dac6a1e76"
+  },
+  {
+   "file": "R_18/SE001/Train/EinsteinSmall/R_18_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "bc45292882d82aced0ffc4153e138cecc0d9ea69b28a6af01c062502cc5a7e21"
+  },
+  {
+   "file": "R_18/SE001/Train/EinsteinSmall/R_18_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "f6fbf0d61445d036f39112f79cdf2f63af89ed69f41bd455253fc2a9765766a5"
+  },
+  {
+   "file": "R_18/SE001/Train/EinsteinSmall/R_18_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "759c79e88437da94f4b3fcde4b23d0bd4fe97c6639ebe61b41ddbc8866bafe22"
+  },
+  {
+   "file": "R_18/SE002/Test/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 12930870,
+   "sha256": "8fb7f1d387b6808e8ea457f86f5b06cf07140756a7df8f93c65cb79e8685c1ff"
+  },
+  {
+   "file": "R_18/SE002/Test/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 12930870,
+   "sha256": "0339ebe61a6e036f7974da58d35c9c6526256ecf66ec9785f94bf46f6690a7bb"
+  },
+  {
+   "file": "R_18/SE002/Test/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 12930870,
+   "sha256": "624659d43e855ab04cb6821e67aea515aabf1ed3a1aa63121332a4e809ab24e2"
+  },
+  {
+   "file": "R_18/SE002/Test/EinsteinLarge/R_18_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 12930870,
+   "sha256": "56ef20a22a5f38d2f3dbb4afdde3d5bf25f75db01a2461bd1c0ff92461720bb4"
+  },
+  {
+   "file": "R_18/SE002/Test/EinsteinLarge/R_18_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 12930870,
+   "sha256": "2d8f71237ac0b8e2976a7a07e65c840707dbf15da40e932860209a8f2d148ca2"
+  },
+  {
+   "file": "R_18/SE002/Test/EinsteinLarge/R_18_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 12930870,
+   "sha256": "2dec4e133743a9985c97f9347eedb353b612995d27d025eb0302d93cc4eeddd4"
+  },
+  {
+   "file": "R_18/SE002/Train/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "2c60055e9d48039c9fce75d6fc56f77c8eeea723e40eea3aa460f87abef7ae74"
+  },
+  {
+   "file": "R_18/SE002/Train/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "62f41859bc199491897108a0bedaaf75c32fd5a09620fa5188df3e115b786851"
+  },
+  {
+   "file": "R_18/SE002/Train/CrystalizeSmall/R_18_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "b43fb87f2abf5b7f32fba67ea9ab5a2ee54b20afa5cae34c04c12031a605739a"
+  },
+  {
+   "file": "R_18/SE002/Train/EinsteinLarge/R_18_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "8c9c62530ea8d2a4d419fe7238a14ecdeb8dd73cb0825afdb82b267dafb0df1b"
+  },
+  {
+   "file": "R_18/SE002/Train/EinsteinLarge/R_18_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "3ff381077097a10c50efd59094a621cff00d1f83528660854d67e5a5a39467f3"
+  },
+  {
+   "file": "R_18/SE002/Train/EinsteinLarge/R_18_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9bb9761fb148f053ef409a7be724faccc16e0fcd77e7b731fe4f6a1de20f007c"
+  },
+  {
+   "file": "R_19/SE001/Test/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Test04.edf",
+   "bytes": 6627126,
+   "sha256": "b323ba384321edeaf15575510f075da1d7b20426e553413229544ea32695ce88"
+  },
+  {
+   "file": "R_19/SE001/Test/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Test05.edf",
+   "bytes": 6627126,
+   "sha256": "91595ca12531873a4036e3a0820b6cc4e000f57b2291339e5426bae5eb810404"
+  },
+  {
+   "file": "R_19/SE001/Test/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Test06.edf",
+   "bytes": 6627126,
+   "sha256": "ee5274b513dbc776d9a6a088c4b5000ca72fc71ad3eed6a46c37328bcde1820c"
+  },
+  {
+   "file": "R_19/SE001/Test/EinsteinSmall/R_19_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "2cbce1352b2cb9dcce2953659d89a5aee36f05f993cf97944d307d33b36f349b"
+  },
+  {
+   "file": "R_19/SE001/Test/EinsteinSmall/R_19_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "8642b47e9b549c646b90c004abc96b2bf1ef7f6c602d2d97cb34a956ac792f14"
+  },
+  {
+   "file": "R_19/SE001/Test/EinsteinSmall/R_19_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "3bf2a3f99764cf11343226ee3c5ffb8eb47314374b06e90b781229b2b6941e08"
+  },
+  {
+   "file": "R_19/SE001/Train/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "0e85dcff4687faa1fd1cf5621da8f5fa161152966f69572aeb5368e5d5678e9b"
+  },
+  {
+   "file": "R_19/SE001/Train/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "a39738ef79ec706cf30c75d16d9d660ce993f305f7f00e4b0dc6047c563f3515"
+  },
+  {
+   "file": "R_19/SE001/Train/CrystalizeLarge/R_19_SE001_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "a12918f4fc578c4d40523a570c01f484cf472b6db342744cc4df0f15d6fbdaf6"
+  },
+  {
+   "file": "R_19/SE001/Train/EinsteinSmall/R_19_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "12c561456611badd5ffa9f65c191cd75584a8fd83967d336f53f990098327e56"
+  },
+  {
+   "file": "R_19/SE001/Train/EinsteinSmall/R_19_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "4bb597fe372f9d4bce496a068b1d6ddd1be75b4cf0bbf260a5c1c0a9d9c86048"
+  },
+  {
+   "file": "R_19/SE001/Train/EinsteinSmall/R_19_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "700b85352259e19b2622111cd06b01d3f76e965a49f4cb6f666653c5f2a6d0ba"
+  },
+  {
+   "file": "R_19/SE002/Test/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "30ec9362cd8a54f54a09b0805ca1a55b46a00cbd7d1d6a2f849abd3760f9b7d6"
+  },
+  {
+   "file": "R_19/SE002/Test/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "63f8f880c184235aefe239b97357811f176624b9c0ab337801f6b25c42252c8a"
+  },
+  {
+   "file": "R_19/SE002/Test/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "9b98e6880e2302aff9be2aa5d4f92a4141ecced8a102b6c7b9afba71e4969cdd"
+  },
+  {
+   "file": "R_19/SE002/Test/EinsteinLarge/R_19_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "24f425897d0068d55e65b5fb6181e8b9b41d0c2ced5bce44a4ee13ef628789d9"
+  },
+  {
+   "file": "R_19/SE002/Test/EinsteinLarge/R_19_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "fec2cd597070e3007e56e9f7d13e59822c9bfa8f502ccbd399d518bcfaad4104"
+  },
+  {
+   "file": "R_19/SE002/Test/EinsteinLarge/R_19_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "9767c033407183e6b25d90ad372659ca4433fe89b64b72a0fa85efe1502dae30"
+  },
+  {
+   "file": "R_19/SE002/Train/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "88d9f715061edf7d813eaee1e1127aba9adac7e1f2116c246ba77b9c0ecc1c9d"
+  },
+  {
+   "file": "R_19/SE002/Train/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "5e84ba7afe664dd2be7bc4717c7ab80d81f5264adbf927348fd1968ddd4a8efa"
+  },
+  {
+   "file": "R_19/SE002/Train/CrystalizeSmall/R_19_SE002_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "37a27c43471e9e505aa2c63f26513db57597a76ffd51008a9f68dae6e5fc67e2"
+  },
+  {
+   "file": "R_19/SE002/Train/EinsteinLarge/R_19_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "a4889c037d930359ab787c1aedfdc1cee2cae39ccf74547486588c3828d3f577"
+  },
+  {
+   "file": "R_19/SE002/Train/EinsteinLarge/R_19_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "dc4242308b3f62ec8aeb95575476771ce07b277e344a6e222817c5d2af79d0c0"
+  },
+  {
+   "file": "R_19/SE002/Train/EinsteinLarge/R_19_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "b2b0467a83d3bcf95da8dfe930c4b9817d6b2fd611f2f1b56ff6939dcfc9c60d"
+  },
+  {
+   "file": "R_20/SE001/Test/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "e22188acfc83cbb1ab8d0abb69c7c1e18ec6670aaf5e99cdc90812e5876dfd5b"
+  },
+  {
+   "file": "R_20/SE001/Test/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "32e958539f73e40cec4615ab2ba1286be1045ced5ec6c881dd1f5514b3388657"
+  },
+  {
+   "file": "R_20/SE001/Test/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "0c297a0f903b28d8314de497542d51900f9b51c4283acc09da1af4515b17c1eb"
+  },
+  {
+   "file": "R_20/SE001/Test/EinsteinSmall/R_20_SE001_EinsteinSmall_Test04.edf",
+   "bytes": 11354934,
+   "sha256": "c9ce60cb2176cb5fec3bc9d6beef790fd19c67ea525392910981b6e848f342bc"
+  },
+  {
+   "file": "R_20/SE001/Test/EinsteinSmall/R_20_SE001_EinsteinSmall_Test05.edf",
+   "bytes": 11354934,
+   "sha256": "8bd1cd124e224856241d74b96e4a6351ea95021c58e57969f0cd3f5e72312c59"
+  },
+  {
+   "file": "R_20/SE001/Test/EinsteinSmall/R_20_SE001_EinsteinSmall_Test06.edf",
+   "bytes": 11354934,
+   "sha256": "798e61f6e97d2898786117a406cd54c6d705396026ad8f88ac3fadc8f219418c"
+  },
+  {
+   "file": "R_20/SE001/Train/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "dc868a6c8677e566c62d8c84ffdb5b3e264d4dd1063343900bd152ed4ef9bfdc"
+  },
+  {
+   "file": "R_20/SE001/Train/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "3fe7bf3b86403989c63b16f5cf1d5e0231a5462ecbc2e2b68d7243a1872c962f"
+  },
+  {
+   "file": "R_20/SE001/Train/CrystalizeSmall/R_20_SE001_CrystalizeSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "9186957a088613336a736ca09c5153a7e60764933b621de8154f3befea9d64c9"
+  },
+  {
+   "file": "R_20/SE001/Train/EinsteinSmall/R_20_SE001_EinsteinSmall_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "4666d52025fe777e49e8ae1970d791cac4f8bc491a793657c32cc767b4a40d2b"
+  },
+  {
+   "file": "R_20/SE001/Train/EinsteinSmall/R_20_SE001_EinsteinSmall_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "178e57ba4106abdb049182e942db20b17683080c845152a24f7874774f92ef29"
+  },
+  {
+   "file": "R_20/SE001/Train/EinsteinSmall/R_20_SE001_EinsteinSmall_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "814c2241f1e0a13c66ffc67041b70eb3b5e3a50783c12652aa15915bbfc36c15"
+  },
+  {
+   "file": "R_20/SE002/Test/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Test04.edf",
+   "bytes": 8203062,
+   "sha256": "9505dba64bcca84ab4e6992f0400be3d7f61efc7f326346f9938c17c1bd9946e"
+  },
+  {
+   "file": "R_20/SE002/Test/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Test05.edf",
+   "bytes": 8203062,
+   "sha256": "da9f3a41f622b455410a60acb75c90f20e5a6610c8c1979666a95cd7bd1142dd"
+  },
+  {
+   "file": "R_20/SE002/Test/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Test06.edf",
+   "bytes": 8203062,
+   "sha256": "134e0c3e5ffa4336949cf112550941636b66ba6686a965cc46cd384eed5b4989"
+  },
+  {
+   "file": "R_20/SE002/Test/EinsteinLarge/R_20_SE002_EinsteinLarge_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "9301dc0bfc63548ba9725362187adc69ce9cb2da611424d5a06b2ceb20b8f307"
+  },
+  {
+   "file": "R_20/SE002/Test/EinsteinLarge/R_20_SE002_EinsteinLarge_Test05.edf",
+   "bytes": 9778998,
+   "sha256": "4e60fda57efe6d5da9b03ce0b7a336779fefd577224b2670c286671f3c40c64a"
+  },
+  {
+   "file": "R_20/SE002/Test/EinsteinLarge/R_20_SE002_EinsteinLarge_Test06.edf",
+   "bytes": 9778998,
+   "sha256": "8932b9c0846356be251cfe2c580d47deb99cfc78764c888615d9ad105186ffbb"
+  },
+  {
+   "file": "R_20/SE002/Train/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "5b6155181d517f6c84fae30af18457d1f34e9107e7c23d96517601a1264c77db"
+  },
+  {
+   "file": "R_20/SE002/Train/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "dcbde87bc8a2ca340b844225b7c2c19c9e4196ffeec37037e911f2046aa50be5"
+  },
+  {
+   "file": "R_20/SE002/Train/CrystalizeLarge/R_20_SE002_CrystalizeLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "168c577f8d302632e1def688b87938f309a8a98816b9cd52ac429de94fb0abf4"
+  },
+  {
+   "file": "R_20/SE002/Train/EinsteinLarge/R_20_SE002_EinsteinLarge_Train01.edf",
+   "bytes": 12930870,
+   "sha256": "3c5d6585a685327266157992d29c45ae10367f3ea49c3fe151219e14a01933db"
+  },
+  {
+   "file": "R_20/SE002/Train/EinsteinLarge/R_20_SE002_EinsteinLarge_Train02.edf",
+   "bytes": 12930870,
+   "sha256": "2e740cfdd8681be0d59b5e79aaef86139f3dd03f51206b57444484bf16439b01"
+  },
+  {
+   "file": "R_20/SE002/Train/EinsteinLarge/R_20_SE002_EinsteinLarge_Train03.edf",
+   "bytes": 12930870,
+   "sha256": "3971ef3346c051a7990e39710a8e8eb5ba493c1c422db61277109326ff0eb307"
+  }
+ ]
+}
