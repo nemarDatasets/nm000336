@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study R)",
-  "description": "BigP3BCI Study R is a P300-based brain-computer interface dataset comprising EEG recordings from 20 ALS subjects performing a 9x8 character grid speller task across two sessions. This derivative dataset is part of the larger BigP3BCI collection, the largest public P300 BCI dataset with ~267 subjects across 20 studies. The data were acquired at 256 Hz using 32-channel EEG with a g.USBamp amplifier and include target and non-target event classifications suitable for machine learning applications.",
-  "methods_description": "EEG data were acquired at 256 Hz sampling rate using 32 channels with standard 10-20 montage on a g.USBamp (g.tec) amplifier with 60 Hz line frequency. Subjects performed a P300 speller task using a 9x8 multi-face paradigm across 2 sessions. The experimental protocol included visual presentation of target and non-target stimuli with trial intervals of [0, 1.0] seconds.",
+  "description": "BigP3BCI Study R is a P300-based brain-computer interface dataset comprising EEG recordings from 20 ALS subjects performing a 9x8 multi-face character grid speller task across two sessions. This derivative dataset is part of the larger BigP3BCI collection, the largest public P300 BCI dataset with ~267 subjects across 20 studies, and is formatted according to BIDS standards with HED event annotations for machine learning applications.",
+  "methods_description": "EEG data were acquired at 256 Hz sampling rate using 32 channels arranged in a standard 10-20 montage with a g.USBamp amplifier (g.tec). ALS subjects performed a visual P300 speller task using a 9x8 character grid paradigm with target and non-target stimulus presentations. Data were collected across 2 sessions per subject with online feedback in a laboratory environment.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -22,31 +22,31 @@
   },
   "keywords": [
     {
-      "term": "P300"
-    },
-    {
-      "term": "brain-computer interface"
+      "term": "brain-computer interfaces"
     },
     {
       "term": "EEG"
     },
     {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
       "term": "speller paradigm"
     },
     {
-      "term": "event-related potential"
-    },
-    {
-      "term": "ALS"
-    },
-    {
-      "term": "visual"
-    },
-    {
-      "term": "perception"
+      "term": "visual perception"
     },
     {
       "term": "machine learning"
+    },
+    {
+      "term": "HED annotations"
+    },
+    {
+      "term": "ALS"
     }
   ],
   "related_identifiers": [
@@ -93,5 +93,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "9dca3e0b60a47a6fb6b8df73c84beca381616be2cb69e1e1ae367ae9e87a3d9f"
+  "source_hash": "fb6764779d50282e33b95d8696ddbef71b6e8b4c0d729380e5bec5173685a297"
 }
