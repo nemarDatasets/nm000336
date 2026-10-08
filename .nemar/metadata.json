@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study R)",
-  "description": "Study R of the bigP3BCI collection, comprising EEG recordings from 20 participants with amyotrophic lateral sclerosis (ALS) performing a P300-based brain-computer interface speller task. The study used 9x8 character grids with multi-face stimulus paradigms, and each participant completed two sessions. Recordings were made with 32 channels at 256 Hz, and events are annotated as target and non-target stimuli with HED tags. The data are a MOABB/BIDS-formatted derivative of the PhysioNet bigP3BCI dataset.",
-  "methods_description": "EEG was recorded with a g.USBamp amplifier (g.tec) using 32 channels at 256 Hz, positioned according to the standard 10-20 montage. Participants performed a visual P300 speller task with a 9x8 grid and multi-face stimuli, with calibration followed by online testing with feedback. Target and non-target events were epoched over a 0-1.0 s interval.",
+  "description": "This dataset is Study R of the bigP3BCI collection, a large open P300-based brain-computer interface (BCI) resource. It contains 32-channel EEG recorded at 256 Hz from 20 participants over two sessions each, while they used a speller with 9x8 multi-face stimulus paradigms. Target and non-target events are annotated with HED tags. The data are formatted for machine learning and benchmarking with MOABB.",
+  "methods_description": "EEG was recorded with a g.USBamp amplifier (g.tec) from 32 channels placed according to the standard 10-20 montage, sampled at 256 Hz. Participants performed a visual P300 speller task with a 9x8 character grid and multi-face stimuli, with a calibration phase followed by online testing with feedback. Epochs span 0 to 1.0 s after the stimulus and are labeled Target or NonTarget.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -37,15 +37,10 @@
       "term": "speller"
     },
     {
-      "term": "visual perception"
-    },
-    {
-      "term": "Amyotrophic Lateral Sclerosis",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000690"
-    },
-    {
       "term": "event-related potentials"
+    },
+    {
+      "term": "amyotrophic lateral sclerosis"
     }
   ],
   "related_identifiers": [
@@ -92,5 +87,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "fb6764779d50282e33b95d8696ddbef71b6e8b4c0d729380e5bec5173685a297"
+  "source_hash": "bd76031b35f5ee08b6cf875e2b083973f30d0894a411507e0d4034d88e8ee087"
 }
